@@ -1,4 +1,4 @@
-Hi 👋 My name is Doina Colun
+Hi 👋 My name is Doina
 ============================
 
 Full Stack Software Developer
