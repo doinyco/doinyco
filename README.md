@@ -1,7 +1,7 @@
 Hi 👋 My name is Doina
 ============================
 
-Full Stack Software Developer
+Full Stack Software Engineer
 -----------------------------
 
 I am a Fullstack Software Developer with a passion for building dynamic and responsive web applications
