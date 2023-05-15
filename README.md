@@ -1,7 +1,7 @@
-Hi 👋 My name is Doina
+Hi 👋 My name is Doina Colun
 ============================
 
-Full Stack Software Engineer
+Full Stack Software Developer
 -----------------------------
 
 I am a Fullstack Software Developer with a passion for building dynamic and responsive web applications
