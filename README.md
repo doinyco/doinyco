@@ -4,9 +4,10 @@ Hi 👋 My name is Doina Colun
 Full Stack Software Developer
 -----------------------------
 
-I am a Fullstack Software Developer with a passion for building dynamic and responsive web applications
+I am a Full-stack Software Developer with a passion for building dynamic and responsive web applications
 
 * 🌍  I'm based in Seattle, WA
+* 🖥️  See my portfolio at [doinyco](http://doinyco.github.io/personal_portfolio)
 * 🧠  I'm learning how to integrate AI in the app I am currently working on
 
 ### Skills
