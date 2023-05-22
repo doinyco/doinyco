@@ -6,7 +6,7 @@ Full Stack Software Engineer
 
 I am a Full-stack Software Engineer with a passion for building dynamic and responsive web applications
 
-* 🌍  I'm based in Seattle, WA
+* 🌍  I'm based in Redmond, WA
 * 📝 See my resume at [Doina's-resume](https://github.com/doinyco/doina-resume)
 * 🖥️  See my portfolio at [Portfolio](http://doinyco.github.io/personal_portfolio)
 *  🤝  I'm open to collaborating on Full stack & Backend projects
