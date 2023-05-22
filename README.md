@@ -9,7 +9,6 @@ I am a Full-stack Software Engineer with a passion for building dynamic and resp
 * 🌍  I'm based in Seattle, WA
 * 📝 See my resume at [Doina's-resume](https://github.com/doinyco/doina-resume)
 * 🖥️  See my portfolio at [Portfolio](http://doinyco.github.io/personal_portfolio)
-* 🧠  I'm learning how to integrate AI in the app I am currently working on
 *  🤝  I'm open to collaborating on Full stack & Backend projects
 
 ### Skills
