@@ -1,10 +1,10 @@
 Hi 👋 My name is Doina
 ============================
 
-Full Stack Software Engineer
+Software Engineer
 -----------------------------
 
-I am a Full-stack Software Engineer with a passion for building dynamic and responsive web applications
+I am a Software Engineer with a passion for building dynamic and responsive web applications
 
 * 🌍  I'm based in Redmond, WA
 * 📝 See my resume at [Doina's Resume](https://github.com/doinyco/doina-resume)
