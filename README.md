@@ -3,7 +3,7 @@ Hi 👋 My name is Doina
 I am a Software Engineer with a passion for building dynamic and responsive web applications
 -----------------------------
 
-* 🌍  I'm based in Redmond, WA
+* 🌍  I'm based in Greater Seattle area
 * 📝 See my resume at [Doina's Resume](https://github.com/doinyco/doina-resume)
 * 🖥️  See my portfolio at [Doina's Portfolio](http://doinyco.github.io/personal_portfolio)
 *  🤝  I'm open to collaborating on Full stack & Backend projects
