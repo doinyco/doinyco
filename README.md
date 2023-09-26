@@ -7,6 +7,9 @@ I am a Software Engineer with a passion for building dynamic and responsive web 
 * 📝 See my resume at [Doina's Resume](https://github.com/doinyco/doina-resume)
 * 🖥️  See my portfolio at [Doina's Portfolio](http://doinyco.github.io/personal_portfolio)
 *  🤝  I'm open to collaborating on Full stack & Backend projects
+* 🌱 Currently developing two projects:
+1. [Connect Application](https://github.com/doinyco/connect-application-backend)
+2. [Chatbot App](https://github.com/doinyco/chatbot_application) - My primary focus is on making this chatbot app highly configurable. This configurability will enable me to create an emotional support app that leverages AI for more empathetic interactions rather than relying on random questions.
 
 ### Skills
 
