@@ -1,6 +1,6 @@
 Hi 👋 My name is Doina
 ============================
-I am a Software Engineer passionate about web development, backend systems, and AI-powered chatbot applications..
+I am a Software Engineer passionate about web development, backend systems, and AI-powered chatbot applications.
 -----------------------------
 
 * 🌍  I'm based in Greater Seattle area
