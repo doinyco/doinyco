@@ -7,7 +7,7 @@ I am a Software Engineer passionate about web development, and backend systems.
 * 📝 See my resume at [Doina's Resume](https://github.com/doinyco/doina-resume)
 * 🖥️  See my portfolio at [Doina's Portfolio](http://doinyco.github.io/personal_portfolio)
 *  🤝  I'm open to collaborating on Full stack & Backend projects
-* 🌱 Currently developing [Connect App](https://github.com/doinyco/connect-application-backend):
+* 🌱 Currently developing [Connect App](https://github.com/doinyco/connect-application-backend)
 
 ### Skills
 
