@@ -7,12 +7,9 @@ I am a Software Engineer passionate about web development, backend systems, and 
 * 📝 See my resume at [Doina's Resume](https://github.com/doinyco/doina-resume)
 * 🖥️  See my portfolio at [Doina's Portfolio](http://doinyco.github.io/personal_portfolio)
 *  🤝  I'm open to collaborating on Full stack & Backend projects
-* 🌱 Currently developing two projects:
-  * [Connect Application](https://github.com/doinyco/connect-application-backend)
-  * [Chatbot App](https://github.com/doinyco/chatbot_application) - My primary focus is on making this chatbot app highly configurable. This configurability will enable me to create an emotional support app that leverages AI for more empathetic interactions rather than relying on random questions.
+* 🌱 Currently developing [Connect App] (https://github.com/doinyco/connect-application-backend):
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
