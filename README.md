@@ -1,6 +1,6 @@
 Hi 👋 My name is Doina
 ============================
-I am a Software Engineer passionate about web development, and backend systems.
+I am a Fullstack Software Engineer with a passion for building dynamic and responsive web applications 
 -----------------------------
 
 * 🌍  I'm based in Greater Seattle area
