@@ -4,10 +4,8 @@ I am a Fullstack Software Engineer with a passion for building dynamic and respo
 -----------------------------
 
 * 🌍  I'm based in Greater Seattle area
-* 📝 See my resume at [Doina's Resume](https://github.com/doinyco/doina-resume)
-* 🖥️  See my portfolio at [Doina's Portfolio](http://doinyco.github.io/personal_portfolio)
+* 🖥️  See my portfolio at [Doina's Portfolio](https://doina-colun.onrender.com/)
 *  🤝  I'm open to collaborating on Full stack & Backend projects
-* 🌱 Currently developing [Connect App](https://github.com/doinyco/connect-application-backend)
 
 ### Skills
 
